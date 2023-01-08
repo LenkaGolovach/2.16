@@ -3,7 +3,6 @@
 import json
 import sys
 import os
-import jsonschema
 
 
 def get_shop():
